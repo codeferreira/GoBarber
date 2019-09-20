@@ -1,4 +1,5 @@
-![Login](./prints/login.png)
+<img src="./prints/login.png" width="220px" height="220px" align="right"/>
+
 # GoBarber
 
 Gobarber is a barber reservation system that connects your customers to your calendar.
